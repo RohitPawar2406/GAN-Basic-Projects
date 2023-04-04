@@ -1,2 +1,3 @@
 # GAN Basic Projects
  
+Basics of GAN such as SimpleGAN, DCGAN, WGAN-GP and CGAN completed with alll concepts. infoGAN and ProGAN is in progress..........
