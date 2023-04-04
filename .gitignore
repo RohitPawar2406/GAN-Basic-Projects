@@ -1,0 +1,9 @@
+
+DCGAN/runs/GAN_MNIST/fake/events.out.tfevents.1677202970.LAPTOP-KRQGC77D.19260.0
+DCGAN/runs/GAN_MNIST/real/events.out.tfevents.1677202970.LAPTOP-KRQGC77D.19260.1
+SimpleGAN/runs/GAN_MNIST/real/events.out.tfevents.1677260614.LAPTOP-KRQGC77D.20320.1
+SimpleGAN/runs/GAN_MNIST/real/events.out.tfevents.1677260341.LAPTOP-KRQGC77D.9516.3
+SimpleGAN/runs/GAN_MNIST/fake/events.out.tfevents.1677260614.LAPTOP-KRQGC77D.20320.0
+SimpleGAN/runs/GAN_MNIST/fake/events.out.tfevents.1677260353.LAPTOP-KRQGC77D.2372.0
+SimpleGAN/runs/GAN_MNIST/fake/events.out.tfevents.1677260341.LAPTOP-KRQGC77D.9516.2
+SimpleGAN/runs/GAN_MNIST/real/events.out.tfevents.1677260353.LAPTOP-KRQGC77D.2372.1
